@@ -7,7 +7,7 @@
 .content{
     overflow: scroll;
     height: 100%;
-    background: -webkit-linear-gradient(left, #94D3E7 0, #94D3E7 20%, #EFC9D7 20%, #EFC9D7 40%, white 40%, white 60%, #EFC9D7 60%, #EFC9D7 80%, #94D3E7 80%);
+    background: -webkit-linear-gradient(left, #FC7C71 0, #FC7C71 20%, #F5A46D 20%, #F5A46D 40%, #FBDC70 40%, #FBDC70 60%, #EFC9D7 60%, #EFC9D7 80%, #FC7C71 80%);
 }
 
 .Blog .addressBar{

@@ -98,7 +98,7 @@ export const Programs = [
         name: 'Old Portfolio',
         image: 'Fist',
         parent: 'Portfolio',
-        url: 'http://the-transgineer.github.io/old-portfolio'
+        url: 'http://cloverLynn.github.io/old-portfolio'
 
     },
     {
@@ -131,24 +131,24 @@ export const Programs = [
         name: 'Github',
         image: 'gh',
         parent: 'My Computer',
-        url: 'https://github.com/the-transgineer'
+        url: 'https://github.com/cloverLynn'
     },
     {
         name: 'Linkedin',
         image: 'link',
         parent: 'My Computer',
-        url: 'https://www.linkedin.com/in/kinley-forbes'
+        url: 'https://www.linkedin.com/in/clover-lynn'
     },
     {
         name: 'Twitter',
         image: 'twitter',
         parent: 'My Computer',
-        url: 'https://twitter.com/Transgineering'
+        url: 'https://twitter.com/'
     },
     {
         name: 'Instagram',
         image: 'insta',
         parent: 'My Computer',
-        url: 'https://www.instagram.com/TheTransgineer/'
+        url: 'https://www.instagram.com/hillbillygothicc/'
     },
 ];
